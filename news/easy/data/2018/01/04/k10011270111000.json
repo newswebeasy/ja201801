@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011270111000",
+  "news_prearranged_time": "2018-01-04 16:20:00",
+  "title": "コンピューターで使えるように全部の漢字にコードが決まる",
+  "title_with_ruby": "コンピューターで<ruby>使<rt>つか</rt></ruby>えるように<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>にコードが<ruby>決<rt>き</rt></ruby>まる",
+  "outline_with_ruby": "<p>コンピューターで<ruby>使<rt>つか</rt></ruby>う<ruby>字<rt>じ</rt></ruby>には、<ruby>世界<rt>せかい</rt></ruby>で<ruby>決<rt>き</rt></ruby>まった「<a href='javascript:void(0)' class='dicWin' id='id-0000'>コード</a>」という<ruby>番号<rt>ばんごう</rt></ruby>があります。",
+  "has_news_web_image": false,
+  "has_news_web_movie": false,
+  "has_news_easy_image": true,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "k10011270111000.jpg",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011270111000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011270111000/k10011270111000.html"
+}

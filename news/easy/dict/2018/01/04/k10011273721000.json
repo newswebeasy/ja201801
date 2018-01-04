@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>土</rb><rt>つち</rt></ruby>のある<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "陸"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "メキシコ<ruby><rb>湾</rb><rt>わん</rt></ruby>や<ruby><rb>西</rb><rt>にし</rt></ruby>インド<ruby><rb>諸島</rb><rt>しょとう</rt></ruby><ruby><rb>付近</rb><rt>ふきん</rt></ruby>で<ruby><rb>発生</rb><rt>はっせい</rt></ruby>して、<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカをおそう<ruby><rb>暴風雨</rb><rt>ぼうふうう</rt></ruby>。",
+          "hyouki": [
+            "ハリケーン"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span class=\"dic_sub\">2</span></rb><rt>シーオーツー</rt></ruby>」。",
+          "hyouki": [
+            "二酸化炭素"
+          ]
+        }
+      ]
+    }
+  }
+}
