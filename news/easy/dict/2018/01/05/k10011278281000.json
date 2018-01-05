@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>小麦</rb><rt>こむぎ</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>をひいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>粉</rb><rt>こな</rt></ruby>。うどん・パン・<ruby><rb>菓子</rb><rt>かし</rt></ruby>などに<ruby><rb>加工</rb><rt>かこう</rt></ruby>する。うどん<ruby><rb>粉</rb><rt>こ</rt></ruby>。メリケン<ruby><rb>粉</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "小麦粉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。",
+          "hyouki": [
+            "ビール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>やエビ、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などに、<ruby><rb>水</rb><rt>みず</rt></ruby>でといた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をつけて、<ruby><rb>油</rb><rt>あぶら</rt></ruby>であげたもの。",
+          "hyouki": [
+            "天ぷら"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "載せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。",
+          "hyouki": [
+            "載せる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>料理</rb><rt>りょうり</rt></ruby>のこんだて。また、それを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "メニュー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>の<ruby><rb>一覧表</rb><rt>いちらんひょう</rt></ruby>。",
+          "hyouki": [
+            "メニュー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>え、<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>時間</rb><rt>じかん</rt></ruby>で<ruby><rb>調理</rb><rt>ちょうり</rt></ruby>する<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。",
+          "hyouki": [
+            "電子レンジ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。",
+          "hyouki": [
+            "ワイン"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>を、しょうゆ・みそを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にしたり、<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>にしたりする。",
+          "hyouki": [
+            "小麦"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ]
+    }
+  }
+}

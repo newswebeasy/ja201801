@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011277371000",
+  "news_prearranged_time": "2018-01-05 11:30:00",
+  "title": "ローマ法王「原爆が落ちた長崎の男の子の写真を配って」",
+  "title_with_ruby": "ローマ<ruby>法王<rt>ほうおう</rt></ruby>「<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちた<ruby>長崎<rt>ながさき</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>配<rt>くば</rt></ruby>って」",
+  "outline_with_ruby": "<p>１９４５<ruby>年<rt>ねん</rt></ruby>８<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>に<ruby>長崎<rt>ながさき</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>原爆<rt>げんばく</rt></ruby></a>が<ruby>落<rt>お</rt></ruby>とされたとき、アメリカの<a href='javascript:void(0)' class='dicWin' id='id-0003'>カメラマン</a>が<ruby>撮<rt>と</rt></ruby>った<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180102/../20180102/K10011277371_1801021318_1801021319_01_02.jpg",
+  "news_web_movie_uri": "k10011277371_201801021407_201801021408.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011277371000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011277371000/k10011277371000.html"
+}
