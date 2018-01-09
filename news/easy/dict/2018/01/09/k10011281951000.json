@@ -1,0 +1,42 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>して、<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>に<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になること。ふつう<ruby><rb>満</rb><rt>まん</rt></ruby><ruby><rb>二十歳</rb><rt>にじっさい</rt></ruby><ruby><rb>以上</rb><rt>いじょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>大人</rb><rt>おとな</rt></ruby>。",
+          "hyouki": [
+            "成人"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。",
+          "hyouki": [
+            "留学"
+          ]
+        }
+      ]
+    }
+  }
+}
