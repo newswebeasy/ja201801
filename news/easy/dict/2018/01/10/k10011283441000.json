@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。",
+          "hyouki": [
+            "電化製品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "センサー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ことばや<ruby><rb>文字</rb><rt>もじ</rt></ruby>などによって、たがいに<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>伝</rb><rt>つた</rt></ruby>え<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "コミュニケーション"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011280941000",
+  "news_prearranged_time": "2018-01-10 11:30:00",
+  "title": "大阪大学　去年の入学試験の問題でミスが見つかる",
+  "title_with_ruby": "<ruby>大阪大学<rt>おおさかだいがく</rt></ruby>　<ruby>去年<rt>きょねん</rt></ruby>の<ruby>入学<rt>にゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>でミスが<ruby>見<rt>み</rt></ruby>つかる",
+  "outline_with_ruby": "<p><ruby>大阪大学<rt>おおさかだいがく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>った<ruby>入学<rt>にゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'>ミス</a>があったと<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180106/../20180106/K10011280941_1801061954_1801061955_01_03.jpg",
+  "news_web_movie_uri": "k10011280941_201801062049_201801062052.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011280941000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011280941000/k10011280941000.html"
+}

@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅう<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>氷</rb><rt>こおり</rt></ruby>と<ruby><rb>雪</rb><rt>ゆき</rt></ruby>におおわれている。",
+          "hyouki": [
+            "南極大陸"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>雪</rb><rt>ゆき</rt></ruby>や<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべらせて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "そり"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。",
+          "hyouki": [
+            "旗"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "もうだめだと<ruby><rb>思</rb><rt>おも</rt></ruby>って、やめる。",
+          "hyouki": [
+            "諦める"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あるく。",
+          "hyouki": [
+            "歩"
+          ]
+        },
+        {
+          "def": "あるく<ruby><rb>回数</rb><rt>かいすう</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すことば。",
+          "hyouki": [
+            "歩"
+          ]
+        },
+        {
+          "def": "<ruby><rb>段階</rb><rt>だんかい</rt></ruby>。",
+          "hyouki": [
+            "歩"
+          ]
+        },
+        {
+          "def": "<ruby><rb>割合</rb><rt>わりあい</rt></ruby>。",
+          "hyouki": [
+            "歩"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "歩"
+          ]
+        }
+      ]
+    }
+  }
+}
