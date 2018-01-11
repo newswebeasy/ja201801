@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011284511000",
+  "news_prearranged_time": "2018-01-11 16:00:00",
+  "title": "今年初めて子どもたちがお母さんにお茶をいれる会",
+  "title_with_ruby": "<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて<ruby>子<rt>こ</rt></ruby>どもたちがお<ruby>母<rt>かあ</rt></ruby>さんにお<ruby>茶<rt>ちゃ</rt></ruby>をいれる<ruby>会<rt>かい</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>三重県<rt>みえけん</rt></ruby><ruby>津市<rt>つし</rt></ruby>の<ruby>黒田幼稚園<rt>くろだようちえん</rt></ruby>では、<ruby>子<rt>こ</rt></ruby>どもたちが１か<ruby>月<rt>げつ</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>茶道<rt>さどう</rt></ruby></a>を<ruby>習<rt>なら</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180110/../20180110/K10011284511_1801102131_1801102131_01_03.jpg",
+  "news_web_movie_uri": "k10011284511_201801102131_201801102131.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011284511000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011284511000/k10011284511000.html"
+}

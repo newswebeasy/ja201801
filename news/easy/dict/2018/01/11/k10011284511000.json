@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "お<ruby><rb>客</rb><rt>きゃく</rt></ruby>にお<ruby><rb>茶</rb><rt>ちゃ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>飲</rb><rt>の</rt></ruby>んだりするときの<ruby><rb>作法</rb><rt>さほう</rt></ruby>。<ruby><rb>千利休</rb><rt>せんのりきゅう</rt></ruby>が<ruby><rb>完成</rb><rt>かんせい</rt></ruby>させたといわれる。<ruby><rb>茶</rb><rt>ちゃ</rt></ruby>の<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。ちゃどう。",
+          "hyouki": [
+            "茶道"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "幼稚園"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "お<ruby><rb>茶</rb><rt>ちゃ</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んだり、ご<ruby><rb>飯</rb><rt>はん</rt></ruby>を<ruby><rb>食</rb><rt>た</rt></ruby>べたりするときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>器</rb><rt>うつわ</rt></ruby>。",
+          "hyouki": [
+            "茶わん"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>をかくように<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>る。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>とするところへふり<ruby><rb>向</rb><rt>む</rt></ruby>ける。さし<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>くようにする。",
+          "hyouki": [
+            "回す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。",
+          "hyouki": [
+            "回す"
+          ]
+        }
+      ]
+    }
+  }
+}

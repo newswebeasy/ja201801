@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>夫婦</rb><rt>ふうふ</rt></ruby>や<ruby><rb>恋人</rb><rt>こいびと</rt></ruby>のような、<ruby><rb>男</rb><rt>おとこ</rt></ruby>と<ruby><rb>女</rb><rt>おんな</rt></ruby>のひと<ruby><rb>組</rb><rt>く</rt></ruby>み。",
+          "hyouki": [
+            "カップル"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "やりかた。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。",
+          "hyouki": [
+            "方"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>石</rb><rt>いし</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などを、ほったりけずったりして、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>をつくること。また、その<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。",
+          "hyouki": [
+            "彫刻"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）かわいがる。かわいく<ruby><rb>思</rb><rt>おも</rt></ruby>う。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にする。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "<ruby><rb>好</rb><rt>この</rt></ruby>む。おもしろいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "愛"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。",
+          "hyouki": [
+            "表す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ]
+    }
+  }
+}
