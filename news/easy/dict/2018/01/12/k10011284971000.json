@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "脳"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。",
+          "hyouki": [
+            "パスワード"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かくして、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせないこと。かくしごと。ないしょ。",
+          "hyouki": [
+            "秘密"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>番組</rb><rt>ばんぐみ</rt></ruby>。<ruby><rb>予定表</rb><rt>よていひょう</rt></ruby>。",
+          "hyouki": [
+            "プログラム"
+          ]
+        },
+        {
+          "def": "コンピューターに<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をさせるための<ruby><rb>手順</rb><rt>てじゅん</rt></ruby>や<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>をコンピューター<ruby><rb>用</rb><rt>よう</rt></ruby>のことばで<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。",
+          "hyouki": [
+            "プログラム"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。",
+          "hyouki": [
+            "犯罪"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ]
+    }
+  }
+}

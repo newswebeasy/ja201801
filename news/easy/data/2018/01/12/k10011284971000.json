@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011284971000",
+  "news_prearranged_time": "2018-01-12 16:30:00",
+  "title": "コンピューターやスマートフォンの「ＣＰＵ」に問題",
+  "title_with_ruby": "コンピューターやスマートフォンの「ＣＰＵ」に<ruby>問題<rt>もんだい</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>世界中<rt>せかいじゅう</rt></ruby>のコンピューターなどに<ruby>使<rt>つか</rt></ruby>われている「ＣＰＵ」に、とても<ruby>大<rt>おお</rt></ruby>きな<ruby>問題<rt>もんだい</rt></ruby>があることがわかりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180111/../20180111/K10011284971_1801111306_1801111308_01_02.jpg",
+  "news_web_movie_uri": "k10011284971_201801111311_201801111315.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011284971000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011284971000/k10011284971000.html"
+}

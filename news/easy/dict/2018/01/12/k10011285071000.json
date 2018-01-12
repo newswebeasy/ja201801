@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>に<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などが<ruby><rb>休</rb><rt>やす</rt></ruby>みになること。<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の<ruby><rb>前後</rb><rt>ぜんご</rt></ruby>の<ruby><rb>休</rb><rt>やす</rt></ruby>み。",
+          "hyouki": [
+            "冬休み"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国際線"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ある<ruby><rb>時</rb><rt>とき</rt></ruby>からある<ruby><rb>時</rb><rt>とき</rt></ruby>までと<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "期間"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などで<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶこと。",
+          "hyouki": [
+            "航空"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}
