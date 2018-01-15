@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>などの、けずり<ruby><rb>取</rb><rt>と</rt></ruby>られて<ruby><rb>険</rb><rt>けわ</rt></ruby>しい<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "崖"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>飛行場</rb><rt>ひこうじょう</rt></ruby>で、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>が<ruby><rb>離着陸</rb><rt>りちゃくりく</rt></ruby>するときに<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "滑走路"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ]
+    }
+  }
+}

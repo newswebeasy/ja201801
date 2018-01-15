@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011288651000",
+  "news_prearranged_time": "2018-01-15 17:00:00",
+  "title": "京都市のお寺で新しく成人になった女性たちが弓を引く",
+  "title_with_ruby": "<ruby>京都市<rt>きょうとし</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しく<ruby>成人<rt>せいじん</rt></ruby>になった<ruby>女性<rt>じょせい</rt></ruby>たちが<ruby>弓<rt>ゆみ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>く",
+  "outline_with_ruby": "<p><ruby>京都市<rt>きょうとし</rt></ruby><ruby>東山区<rt>ひがしやまく</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>にある<ruby>三十三間堂<rt>さんじゅうさんげんどう</rt></ruby>という<ruby>建物<rt>たてもの</rt></ruby>には、<ruby>長<rt>なが</rt></ruby>さ１２０ｍの<ruby>廊下<rt>ろうか</rt></ruby>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180114/../20180114/K10011288651_1801141218_1801141220_01_03.jpg",
+  "news_web_movie_uri": "k10011288651_201801141218_201801141220.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011288651000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011288651000/k10011288651000.html"
+}

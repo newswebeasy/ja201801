@@ -1,0 +1,274 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "LED"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "まぶたのふちに<ruby><rb>生</rb><rt>は</rt></ruby>えている<ruby><rb>毛</rb><rt>け</rt></ruby>。",
+          "hyouki": [
+            "まつ毛"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>にできたものでなく、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>ること。",
+          "hyouki": [
+            "人工"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "品"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。",
+          "hyouki": [
+            "品"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。",
+          "hyouki": [
+            "品"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "男子"
+          ]
+        },
+        {
+          "def": "おとこ。",
+          "hyouki": [
+            "男子"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ラジオ・テレビなどの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>を、<ruby><rb>出</rb><rt>だ</rt></ruby>したり<ruby><rb>受</rb><rt>う</rt></ruby>けたりするための<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "アンテナ"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>で、<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>い、<ruby><rb>電線</rb><rt>でんせん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わないこと。",
+          "hyouki": [
+            "無線"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>無線電信</rb><rt>むせんでんしん</rt></ruby>」や「<ruby><rb>無線電話</rb><rt>むせんでんわ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "無線"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ]
+    }
+  }
+}
