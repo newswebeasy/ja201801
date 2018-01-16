@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "お<ruby><rb>茶</rb><rt>ちゃ</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んだり、ご<ruby><rb>飯</rb><rt>はん</rt></ruby>を<ruby><rb>食</rb><rt>た</rt></ruby>べたりするときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>器</rb><rt>うつわ</rt></ruby>。",
+          "hyouki": [
+            "茶わん"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "１１９２<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>源頼朝</rb><rt>みなもとのよりとも</rt></ruby>が<ruby><rb>鎌倉</rb><rt>かまくら</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１３３３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>北条氏</rb><rt>ほうじょうし</rt></ruby>がほろびるまでの１４１<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>武士</rb><rt>ぶし</rt></ruby>が<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>った。",
+          "hyouki": [
+            "鎌倉時代"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "お<ruby><rb>坊</rb><rt>ぼう</rt></ruby>さん。<ruby><rb>僧</rb><rt>そう</rt></ruby>。",
+          "hyouki": [
+            "僧侶"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>上等</rb><rt>じょうとう</rt></ruby>の<ruby><rb>緑茶</rb><rt>りょくちゃ</rt></ruby>を<ruby><rb>粉</rb><rt>こな</rt></ruby>にしたもの。<ruby><rb>湯</rb><rt>ゆ</rt></ruby>でとかして<ruby><rb>飲</rb><rt>の</rt></ruby>む。",
+          "hyouki": [
+            "抹茶"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>感</rb><rt>かん</rt></ruby>じや<ruby><rb>気分</rb><rt>きぶん</rt></ruby>。",
+          "hyouki": [
+            "雰囲気"
+          ]
+        }
+      ]
+    }
+  }
+}

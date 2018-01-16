@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011289051000",
+  "news_prearranged_time": "2018-01-16 11:30:00",
+  "title": "「２０３５年には新しい車の２３％が自動運転の車になる」",
+  "title_with_ruby": "「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」",
+  "outline_with_ruby": "<p>ボストンコンサルティングという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がどう<ruby>変<rt>か</rt></ruby>わるか<ruby>調<rt>しら</rt></ruby>べました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180115/../20180115/K10011289051_1801150520_1801150522_01_03.jpg",
+  "news_web_movie_uri": "k10011289051_201801150520_201801150522.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011289051000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011289051000/k10011289051000.html"
+}

@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。",
+          "hyouki": [
+            "NGO"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。",
+          "hyouki": [
+            "ノーベル賞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>などを<ruby><rb>落</rb><rt>お</rt></ruby>とされて、<ruby><rb>攻撃</rb><rt>こうげき</rt></ruby>されること。",
+          "hyouki": [
+            "被爆"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>・<ruby><rb>水爆</rb><rt>すいばく</rt></ruby>の<ruby><rb>被害</rb><rt>ひがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。",
+          "hyouki": [
+            "被爆"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ]
+    }
+  }
+}

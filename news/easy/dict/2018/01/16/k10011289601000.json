@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。",
+          "hyouki": [
+            "株式"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>のようすを<ruby><rb>見</rb><rt>み</rt></ruby>て、<ruby><rb>知識</rb><rt>ちしき</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。",
+          "hyouki": [
+            "見学"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ]
+    }
+  }
+}
