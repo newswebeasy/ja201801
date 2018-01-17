@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011289611000",
+  "news_prearranged_time": "2018-01-17 11:30:00",
+  "title": "インフルエンザになる人が増えているので気をつけて",
+  "title_with_ruby": "インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているので<ruby>気<rt>き</rt></ruby>をつけて",
+  "outline_with_ruby": "<p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>７日<rt>なのか</rt></ruby>の１<ruby>週間<rt>しゅうかん</rt></ruby>に、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>約<rt>やく</rt></ruby></a>５０００の<ruby>病院<rt>びょういん</rt></ruby>などで<a href='javascript:void(0)' class='dicWin' id='id-0000'>インフルエンザ</a>だとわかった<ruby>人<rt>ひと</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>数<rt>かず</rt></ruby></a>を<ruby>調<rt>しら</rt></ruby>べました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180115/../20180115/K10011289611_1801151559_1801151559_01_02.jpg",
+  "news_web_movie_uri": "k10011289611_201801151814_201801151822.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011289611000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011289611000/k10011289611000.html"
+}
