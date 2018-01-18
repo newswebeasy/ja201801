@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。",
+          "hyouki": [
+            "地方"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>にふくまれている<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。みずけ。",
+          "hyouki": [
+            "水分"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ]
+    }
+  }
+}

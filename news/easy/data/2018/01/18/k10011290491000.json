@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011290491000",
+  "news_prearranged_time": "2018-01-18 11:30:00",
+  "title": "ビールを飲む人が減り続けている",
+  "title_with_ruby": "ビールを<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けている",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>ビール</a>の５つの<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>った「<a href='javascript:void(0)' class='dicWin' id='id-0000'>ビール</a>」と「<ruby>発泡酒<rt>はっぽうしゅ</rt></ruby>」と「<ruby>第<rt>だい</rt></ruby>３のビール」は<ruby>全部<rt>ぜんぶ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>約<rt>やく</rt></ruby></a>５１１<ruby>万<rt>まん</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0003'>ｋＬ</a>でした。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180116/../20180116/K10011290491_1801161148_1801161156_01_02.jpg",
+  "news_web_movie_uri": "k10011290491_201801161316_201801161318.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011290491000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011290491000/k10011290491000.html"
+}

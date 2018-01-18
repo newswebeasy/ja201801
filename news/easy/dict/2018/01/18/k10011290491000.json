@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。",
+          "hyouki": [
+            "ビール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１キロリットルは、１０００リットル。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「k<span class=\"dic_italic\">l</span>」。",
+          "hyouki": [
+            "キロリットル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "いいにおい。",
+          "hyouki": [
+            "香り"
+          ]
+        },
+        {
+          "def": "そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。",
+          "hyouki": [
+            "香り"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}
