@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011293131000",
+  "news_prearranged_time": "2018-01-19 15:30:00",
+  "title": "ロケットを打ち上げたあとに銀色や赤色に光る雲が見える",
+  "title_with_ruby": "ロケットを<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げたあとに<ruby>銀色<rt>ぎんいろ</rt></ruby>や<ruby>赤<rt>あか</rt></ruby><ruby>色<rt>いろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>る<ruby>雲<rt>くも</rt></ruby>が<ruby>見<rt>み</rt></ruby>える",
+  "outline_with_ruby": "<p>１８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>から「イプシロン」という<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロケット</a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</a>られました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180118/../20180118/K10011293131_1801181219_1801181224_01_03.jpg",
+  "news_web_movie_uri": "k10011293131_201801181219_201801181224.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011293131000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011293131000/k10011293131000.html"
+}
