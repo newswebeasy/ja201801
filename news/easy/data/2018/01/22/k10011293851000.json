@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011293851000",
+  "news_prearranged_time": "2018-01-22 11:30:00",
+  "title": "今年の夏はうなぎが足りなくなるかもしれない",
+  "title_with_ruby": "<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>はうなぎが<ruby>足<rt>た</rt></ruby>りなくなるかもしれない",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<a href='javascript:void(0)' class='dicWin' id='id-0000'>うなぎ</a>のほとんどは、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>養殖<rt>ようしょく</rt></ruby></a>した<a href='javascript:void(0)' class='dicWin' id='id-0000'>うなぎ</a>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180119/../20180119/K10011293851_1801190510_1801190512_01_03.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011293851000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011293851000/k10011293851000.html"
+}

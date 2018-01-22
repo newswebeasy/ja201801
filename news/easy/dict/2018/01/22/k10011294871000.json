@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>消防</rb><rt>しょうぼう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしたり、<ruby><rb>急病</rb><rt>きゅうびょう</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "消防署"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。",
+          "hyouki": [
+            "救急車"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一枚</rb><rt>いちまい</rt></ruby>の<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "シート"
+          ]
+        },
+        {
+         "def": "おおいなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+         "hyouki": [
+            "シート"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えないようにする。",
+          "hyouki": [
+            "隠す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>られないようにする。<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>にする。",
+          "hyouki": [
+            "隠す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "とつぜん。にわかに。",
+          "hyouki": [
+            "急に"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>をつけてやる。<ruby><rb>力</rb><rt>ちから</rt></ruby>づける。",
+          "hyouki": [
+            "励ます"
+          ]
+        }
+      ]
+    }
+  }
+}

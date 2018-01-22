@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>やぬまにすむ、ぬるぬるした<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>で<ruby><rb>卵</rb><rt>たまご</rt></ruby>からかえり、<ruby><rb>川</rb><rt>かわ</rt></ruby>に<ruby><rb>上</rb><rt>のぼ</rt></ruby>ってくる。かば<ruby><rb>焼</rb><rt>や</rt></ruby>きなどにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "鰻"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>などを、<ruby><rb>人工的</rb><rt>じんこうてき</rt></ruby>に<ruby><rb>育</rb><rt>そだ</rt></ruby>てふやすこと。",
+          "hyouki": [
+            "養殖"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>水</rb><rt>みず</rt></ruby>。<ruby><rb>川</rb><rt>かわ</rt></ruby>。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>川</rb><rt>かわ</rt></ruby>のように）<ruby><rb>絶</rb><rt>た</rt></ruby>えることなく<ruby><rb>動</rb><rt>うご</rt></ruby>いているもの。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>系統</rb><rt>けいとう</rt></ruby>。つながり。<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "とりやめになること。",
+          "hyouki": [
+            "流れ"
+          ]
+        }
+      ]
+    }
+  }
+}
