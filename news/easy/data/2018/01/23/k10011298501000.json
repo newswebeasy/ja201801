@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011298501000",
+  "news_prearranged_time": "2018-01-23 16:40:00",
+  "title": "アメリカ「来年大使館をエルサレムに移す」と言う",
+  "title_with_ruby": "アメリカ「<ruby>来年<rt>らいねん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<ruby>移<rt>うつ</rt></ruby>す」と<ruby>言<rt>い</rt></ruby>う",
+  "outline_with_ruby": "<p>アメリカのペンス<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>副<rt>ふく</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>は２２<ruby>日<rt>にち</rt></ruby>、イスラエルに<ruby>行<rt>い</rt></ruby>きました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180123/../20180123/K10011298501_1801230923_1801230924_01_03.jpg",
+  "news_web_movie_uri": "k10011298501_201801230923_201801230924.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011298501000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011298501000/k10011298501000.html"
+}

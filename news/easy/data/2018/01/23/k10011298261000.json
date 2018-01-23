@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011298261000",
+  "news_prearranged_time": "2018-01-23 16:40:00",
+  "title": "雪がたくさん降って東京の中心で２３ｃm積もる",
+  "title_with_ruby": "<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>で２３ｃm<ruby>積<rt>つ</rt></ruby>もる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>関東地方<rt>かんとうちほう</rt></ruby></a>などでは２２<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>から、<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180123/../20180123/K10011298261_1801230444_1801230616_01_03.jpg",
+  "news_web_movie_uri": "k10011298261_201801230444_201801230615.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011298261000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011298261000/k10011298261000.html"
+}
