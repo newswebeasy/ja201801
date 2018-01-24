@@ -1,0 +1,198 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>や<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などの、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>乗</rb><rt>の</rt></ruby>せる<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "車体"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。",
+          "hyouki": [
+            "部品"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ガラス・かべ・<ruby><rb>焼</rb><rt>や</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>・ぬり<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>にできる、<ruby><rb>細</rb><rt>ほそ</rt></ruby>いさけ<ruby><rb>目</rb><rt>め</rt></ruby>。",
+          "hyouki": [
+            "ひび"
+          ]
+        },
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>手</rb><rt>て</rt></ruby>や<ruby><rb>足</rb><rt>あし</rt></ruby>などの<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>にできる、<ruby><rb>細</rb><rt>こま</rt></ruby>かいさけ<ruby><rb>目</rb><rt>め</rt></ruby>。",
+          "hyouki": [
+            "ひび"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仲間割</rb><rt>なかまわ</rt></ruby>れ。",
+          "hyouki": [
+            "ひび"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つよく<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "点検"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。",
+          "hyouki": [
+            "車輪"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いが<ruby><rb>取</rb><rt>と</rt></ruby>れて、すわりがよいこと。",
+          "hyouki": [
+            "安定"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しい<ruby><rb>変化</rb><rt>へんか</rt></ruby>がないこと。",
+          "hyouki": [
+            "安定"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "じく。<ruby><rb>回転</rb><rt>かいてん</rt></ruby>するものの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。<ruby><rb>心棒</rb><rt>しんぼう</rt></ruby>。",
+          "hyouki": [
+            "軸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。かなめ。",
+          "hyouki": [
+            "軸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筆</rb><rt>ふで</rt></ruby>やマッチなどの、<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "軸"
+          ]
+        },
+        {
+          "def": "かけじく。",
+          "hyouki": [
+            "軸"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。",
+          "hyouki": [
+            "鉄"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>型</rb><rt>かた</rt></ruby>。<ruby><rb>類型</rb><rt>るいけい</rt></ruby>。",
+          "hyouki": [
+            "タイプ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つ。",
+          "hyouki": [
+            "両"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "両"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>で、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "両"
+          ]
+        }
+      ]
+    }
+  }
+}

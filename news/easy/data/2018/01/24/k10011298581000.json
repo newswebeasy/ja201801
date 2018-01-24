@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011298581000",
+  "news_prearranged_time": "2018-01-24 11:30:00",
+  "title": "アマゾンがアメリカでレジがないコンビニを始める",
+  "title_with_ruby": "アマゾンがアメリカでレジがないコンビニを<ruby>始<rt>はじ</rt></ruby>める",
+  "outline_with_ruby": "<p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のアマゾンが、レジがなくて<ruby>店員<rt>てんいん</rt></ruby>もいない<a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>をシアトルで<ruby>始<rt>はじ</rt></ruby>めました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180123/../20180123/K10011298581_1801230710_1801230724_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011298581000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011298581000/k10011298581000.html"
+}
