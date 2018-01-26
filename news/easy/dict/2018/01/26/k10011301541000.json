@@ -1,0 +1,120 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>森林</rb><rt>しんりん</rt></ruby>にすみ、<ruby><rb>木登</rb><rt>きのぼ</rt></ruby>りがうまく、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>暮</rb><rt>く</rt></ruby>らしている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。チンパンジー・ゴリラ・オランウータン・テナガザルなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にはニホンザルがいる。",
+          "hyouki": [
+            "猿"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、いちばん<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "細胞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。",
+          "hyouki": [
+            "皮膚"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>や、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>雌</rb><rt>めす</rt></ruby>の<ruby><rb>卵巣</rb><rt>らんそう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる、<ruby><rb>子</rb><rt>こ</rt></ruby>ができるもとになる<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>。<ruby><rb>精子</rb><rt>せいし</rt></ruby>と<ruby><rb>結</rb><rt>むす</rt></ruby>びついて<ruby><rb>子</rb><rt>こ</rt></ruby>になる。<ruby><rb>卵</rb><rt>たまご</rt></ruby>。",
+          "hyouki": [
+            "卵子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。",
+          "hyouki": [
+            "雌"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>人類</rb><rt>じんるい</rt></ruby>。",
+          "hyouki": [
+            "人間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>がら。<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>。",
+          "hyouki": [
+            "人間"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

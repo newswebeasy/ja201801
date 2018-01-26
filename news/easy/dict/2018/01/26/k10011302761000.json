@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。",
+          "hyouki": [
+            "世界遺産"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から、<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>落</rb><rt>お</rt></ruby>ちる<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。",
+          "hyouki": [
+            "滝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。",
+          "hyouki": [
+            "神"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>屋根</rb><rt>やね</rt></ruby>などから<ruby><rb>垂</rb><rt>た</rt></ruby>れる）<ruby><rb>水</rb><rt>みず</rt></ruby>のしずくがこおって、<ruby><rb>垂</rb><rt>た</rt></ruby>れ<ruby><rb>下</rb><rt>さ</rt></ruby>がったもの。",
+          "hyouki": [
+            "つらら"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ]
+    }
+  }
+}

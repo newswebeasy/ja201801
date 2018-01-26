@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011303361000",
+  "news_prearranged_time": "2018-01-26 16:15:00",
+  "title": "インフルエンザになった人が今まででいちばん多くなる",
+  "title_with_ruby": "インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる",
+  "outline_with_ruby": "<p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>から２１<ruby>日<rt>にち</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>に、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>約<rt>やく</rt></ruby></a>２８３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0000'>インフルエンザ</a>になったと<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180126/../20180126/K10011303361_1801260950_1801260951_01_02.jpg",
+  "news_web_movie_uri": "k10011303361_201801261227_201801261232.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011303361000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011303361000/k10011303361000.html"
+}

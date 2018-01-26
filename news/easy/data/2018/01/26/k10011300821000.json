@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011300821000",
+  "news_prearranged_time": "2018-01-26 11:30:00",
+  "title": "野菜の値段が前よりもっと高くなった",
+  "title_with_ruby": "<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>前<rt>まえ</rt></ruby>よりもっと<ruby>高<rt>たか</rt></ruby>くなった",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></a>が<ruby>先週<rt>せんしゅう</rt></ruby>スーパーなどで<ruby>調<rt>しら</rt></ruby>べた<ruby>野菜<rt>やさい</rt></ruby>の１ｋｇの<ruby>値段<rt>ねだん</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>白菜<rt>はくさい</rt></ruby></a>が３６２<ruby>円<rt>えん</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0002'>キャベツ</a>が４１９<ruby>円<rt>えん</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>大根<rt>だいこん</rt></ruby></a>が３４２<ruby>円<rt>えん</rt></ruby>でした。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180124/../20180124/K10011300821_1801241656_1801241656_01_02.jpg",
+  "news_web_movie_uri": "k10011300821_201801241813_201801241818.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011300821000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011300821000/k10011300821000.html"
+}
