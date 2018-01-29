@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>守</rb><rt>まも</rt></ruby>る。",
+          "hyouki": [
+            "預かる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "預かる"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めないままにしておく。",
+          "hyouki": [
+            "預かる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。<ruby><rb>防犯</rb><rt>ぼうはん</rt></ruby>。",
+          "hyouki": [
+            "セキュリティー"
+          ]
+        }
+      ]
+    }
+  }
+}

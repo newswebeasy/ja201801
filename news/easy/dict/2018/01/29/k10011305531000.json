@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>水気</rb><rt>みずけ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>う。また、<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>がなくなって<ruby><rb>命</rb><rt>いのち</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "枯れる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>がらや<ruby><rb>芸事</rb><rt>げいごと</rt></ruby>などに）<ruby><rb>深</rb><rt>ふか</rt></ruby>みが<ruby><rb>出</rb><rt>で</rt></ruby>てくる。",
+          "hyouki": [
+            "枯れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>での<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "身分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>封建社会</rb><rt>ほうけんしゃかい</rt></ruby>における<ruby><rb>地位</rb><rt>ちい</rt></ruby>。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>の<ruby><rb>士農工商</rb><rt>しのうこうしょう</rt></ruby>など。",
+          "hyouki": [
+            "身分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>身</rb><rt>み</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "身分"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。",
+          "hyouki": [
+            "墓"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "いろいろな<ruby><rb>火薬</rb><rt>かやく</rt></ruby>を<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて<ruby><rb>作</rb><rt>つく</rt></ruby>ったものに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけ、はじけて<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>光</rb><rt>ひかり</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>形</rb><rt>かたち</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しさなどを<ruby><rb>楽</rb><rt>たの</rt></ruby>しむもの。",
+          "hyouki": [
+            "花火"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>松</rb><rt>まつ</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>・アシなどを<ruby><rb>束</rb><rt>たば</rt></ruby>ねて<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけ、<ruby><rb>明</rb><rt>あ</rt></ruby>かりにするもの。",
+          "hyouki": [
+            "松明"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ]
+    }
+  }
+}

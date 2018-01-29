@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つ。",
+          "hyouki": [
+            "両"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "両"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>で、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "両"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。",
+          "hyouki": [
+            "注文"
+          ]
+        },
+        {
+          "def": "<ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "注文"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>速度</rb><rt>そくど</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>いこと。",
+          "hyouki": [
+            "高速"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。",
+          "hyouki": [
+            "鉄道"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}
