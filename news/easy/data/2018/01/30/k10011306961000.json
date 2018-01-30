@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011306961000",
+  "news_prearranged_time": "2018-01-30 16:12:00",
+  "title": "草津温泉　噴火で約５５００件のキャンセルが出る",
+  "title_with_ruby": "<ruby>草津温泉<rt>くさつおんせん</rt></ruby>　<ruby>噴火<rt>ふんか</rt></ruby>で<ruby>約<rt>やく</rt></ruby>５５００<ruby>件<rt>けん</rt></ruby>のキャンセルが<ruby>出<rt>で</rt></ruby>る",
+  "outline_with_ruby": "<p><ruby>群馬県<rt>ぐんまけん</rt></ruby>の<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>噴火<rt>ふんか</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>起<rt>お</rt></ruby>こっ</a>てから、１<ruby>週間<rt>しゅうかん</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180129/../20180129/K10011306961_1801291828_1801291839_01_03.jpg",
+  "news_web_movie_uri": "k10011306961_201801291828_201801291839.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011306961000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011306961000/k10011306961000.html"
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011305611000",
+  "news_prearranged_time": "2018-01-30 11:30:00",
+  "title": "タイで日本の音楽や食べ物を紹介するイベント",
+  "title_with_ruby": "タイで<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント",
+  "outline_with_ruby": "<p>タイのバンコクで２６<ruby>日<rt>にち</rt></ruby>から２８<ruby>日<rt>にち</rt></ruby>まで、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0000'>イベント</a>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180128/../20180128/K10011305611_1801280011_1801280013_01_03.jpg",
+  "news_web_movie_uri": "k10011305611_201801280011_201801280012.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011305611000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011305611000/k10011305611000.html"
+}

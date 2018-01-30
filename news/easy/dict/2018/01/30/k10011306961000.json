@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>予約</rb><rt>よやく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>消</rb><rt>け</rt></ruby>すこと。",
+          "hyouki": [
+            "キャンセル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "火山"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>のときに、とけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>やガスなどのふき<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>火口</rb><rt>かこう</rt></ruby>。",
+          "hyouki": [
+            "噴火口"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>運</rb><rt>うん</rt></ruby>や<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せを<ruby><rb>招</rb><rt>まね</rt></ruby>いてくれるもの。",
+          "hyouki": [
+            "マスコット"
+          ]
+        },
+        {
+          "def": "かわいがっている<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>や<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>など。",
+          "hyouki": [
+            "マスコット"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ]
+    }
+  }
+}

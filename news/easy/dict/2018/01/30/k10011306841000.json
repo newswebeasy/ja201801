@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（１８１０～１８４９）ポーランドの<ruby><rb>作曲家</rb><rt>さっきょくか</rt></ruby>。「ピアノの<ruby><rb>詩人</rb><rt>しじん</rt></ruby>」といわれた。「<ruby><rb>小犬</rb><rt>こいぬ</rt></ruby>のワルツ」「<ruby><rb>別</rb><rt>わか</rt></ruby>れの<ruby><rb>曲</rb><rt>きょく</rt></ruby>」などがある。",
+          "hyouki": [
+            "ショパン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "まげる。まがる。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>のメロディー。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>わざ。",
+          "hyouki": [
+            "曲"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。",
+          "hyouki": [
+            "リラックス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}
