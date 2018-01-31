@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011308521000",
+  "news_prearranged_time": "2018-01-31 16:00:00",
+  "title": "ロボットがコーヒーをいれる店がオープン",
+  "title_with_ruby": "ロボットがコーヒーをいれる<ruby>店<rt>みせ</rt></ruby>がオープン",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>が<ruby>人<rt>ひと</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりにコーヒーをいれて<ruby>客<rt>きゃく</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す<ruby>店<rt>みせ</rt></ruby>が、２<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'>オープン</a>します。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180130/../20180130/K10011308521_1801301802_1801301805_01_03.jpg",
+  "news_web_movie_uri": "k10011308521_201801301802_201801301804.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011308521000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011308521000/k10011308521000.html"
+}

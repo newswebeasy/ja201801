@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>やビニルハウスに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>春</rb><rt>はる</rt></ruby>に<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>実</rb><rt>み</rt></ruby>は<ruby><rb>熟</rb><rt>じゅく</rt></ruby>すと<ruby><rb>赤</rb><rt>あか</rt></ruby>くなって<ruby><rb>食</rb><rt>た</rt></ruby>べられる。ストロベリー。",
+          "hyouki": [
+            "苺"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "研究所"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "農家"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ニュージーランドにいる<ruby><rb>鳥</rb><rt>とり</rt></ruby>。つばさがないので<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>を<ruby><rb>歩</rb><rt>ある</rt></ruby>き、<ruby><rb>長</rb><rt>なが</rt></ruby>いくちばしでミミズや<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>などを<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "キウイ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>幹</rb><rt>みき</rt></ruby>がつるになる<ruby><rb>木</rb><rt>き</rt></ruby>。また、その<ruby><rb>実</rb><rt>み</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>は<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>で<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>毛</rb><rt>け</rt></ruby>におおわれ、<ruby><rb>中</rb><rt>なか</rt></ruby>はうす<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>で<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になる。キウイフルーツ。",
+          "hyouki": [
+            "キウイ"
+          ]
+        }
+      ]
+    }
+  }
+}
